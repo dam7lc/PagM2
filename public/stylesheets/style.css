@@ -1,0 +1,36 @@
+body {
+  font: 26px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url("../images/fondo.jpg") fixed center no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.navbar{
+  background-color: rgba(0, 0, 0, .9)
+}
+
+.nav-link  { 
+  margin-left: 25px !important; 
+}  
+
+.logo{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.redes{
+  margin-right: 100px;
+}
+
+.footer-area {
+  background: #303030;
+  color: #fff;
+  bottom:0px;
+}
+
+.servicio{
+  margin-left: 20px;
+}
